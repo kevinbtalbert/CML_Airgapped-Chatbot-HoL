@@ -1,7 +1,6 @@
 import os
 import gradio as gr
 import cmlapi
-import pinecone
 from typing import Any, Union, Optional
 from pydantic import BaseModel
 import tensorflow as tf
